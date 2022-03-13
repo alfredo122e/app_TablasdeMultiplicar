@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tablas de multiplicar</string>
+    <string-array name="numeros">
+        <item>Seleccione el número a multiplicar:</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string name="name">Nombre: Alfredo José Zelaya Lainez.</string>
+    <string name="age">Edad: 19 años.</string>
+    <string name="career">Carrera: Ingeniería en sistemas y redes informáticas.</string>
+    <string name="code">Código: SMIS069221.</string>
+    <string name="back">Regresar</string>
+    <string name="continuar">Siguiente</string>
+</resources>
